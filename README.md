@@ -19,9 +19,7 @@ IoT Based Contactless Body Temperature Monitoring using Raspberry Pi with Camera
 * 220Ω or 1KΩresistor
 * Power Supply (5V,2A/3A)
 
-<h3 align="left"> Software used: </h3>
-
-<body3 align="left"> Python </body3>
+<h3 align="left"> Software used: Python</h3>
 
 <h3 align="left">Sample code: </h3>
 
